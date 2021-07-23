@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "236405408846",
+    "project_id": "myanalyticsexam",
+    "storage_bucket": "myanalyticsexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236405408846:android:5a8765a3a6a437eef56f1f",
+        "android_client_info": {
+          "package_name": "com.ambi.myfirebaseanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236405408846-2onal3607318coa918skqj6n6ajvqnec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ambi.myfirebaseanalytics",
+            "certificate_hash": "62e8da88a8874ef1dfd78853ab4ce26f8371a0e3"
+          }
+        },
+        {
+          "client_id": "236405408846-l4flpodg338g2nigctbock04igeh1epb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvieSbuOGI39Ts1y2DM3oZA9CGsQuasI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236405408846-l4flpodg338g2nigctbock04igeh1epb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236405408846:android:fc3b89740680844ff56f1f",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessagingexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236405408846-l4flpodg338g2nigctbock04igeh1epb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvieSbuOGI39Ts1y2DM3oZA9CGsQuasI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236405408846-l4flpodg338g2nigctbock04igeh1epb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
